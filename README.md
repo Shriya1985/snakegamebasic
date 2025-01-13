@@ -10,3 +10,7 @@ A simple Snake game created using Python and the `pygame` library.
    ```bash
    git clone https://github.com/Shriya1985/Snake-Game.git
    cd Snake-Game
+2. Install dependencies:
+    pip install pygame
+3. Run the game:
+   python main.py
