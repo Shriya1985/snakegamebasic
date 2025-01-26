@@ -14,3 +14,10 @@ A simple Snake game created using Python and the `pygame` library.
     pip install pygame
 3. Run the game:
    python main.py
+   
+ # Requirements
+1. Python 3.x
+2. Tkinter (comes pre-installed with Python)
+
+# Contribution:
+Feel free to fork the repository, make enhancements, and open a pull request. Feedback and improvements are always welcome!
